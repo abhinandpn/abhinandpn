@@ -2,7 +2,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Brototype.in
 <br><br>🌱 I’m currently learning Go-Lang<br><br>
-<br>📫 How to reach me abhinandpn4067@gmail.com<br><br>
+<br>📫 How to reach me abhinandpn4067@gmail.com<br>
 📄 Know about my experiences 
 
 [![](https://visitcount.itsvg.in/api?id=abhinandpn&icon=0&color=8)](https://visitcount.itsvg.in)
