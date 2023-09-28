@@ -3,7 +3,21 @@
 <br>🌱 I’m currently learning Go-Lang
 <br>📫 How to reach me abhinandpn4067@gmail.com<br>
 📄 Know about my experiences 
+**languages and tools:**  
 
+<a><img src="https://skillicons.dev/icons?i=go,html,js,bash,css" />
+<a/> <br/>
+<a><img src="https://skillicons.dev/icons?i=mysql,postgres,bootstrap" />
+<a/> <br/>
+<a><img src="https://skillicons.dev/icons?i=git,figma,github,githubactions,gitlab,postman" />
+<a/>
+ <br/>
+<a><img src="https://skillicons.dev/icons?i=ae,idea,ai,ps,pr,visualstudio,vscode" />
+<a/>
+<a><img src="https://skillicons.dev/icons?i=devto,discord,gcp,instagram,linkedin,stackoverflow" />
+<a/>
+<a><img src="https://skillicons.dev/icons?i=aws,docker,kafka,kubernetes" />
+<a/>
 [![](https://visitcount.itsvg.in/api?id=abhinandpn&icon=0&color=8)](https://visitcount.itsvg.in)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
