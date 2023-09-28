@@ -13,9 +13,9 @@
 <a/>
  <br/>
 <a><img src="https://skillicons.dev/icons?i=ae,idea,ai,ps,pr,visualstudio,vscode" />
-<a/>
+<a/> <br/>
 <a><img src="https://skillicons.dev/icons?i=devto,discord,gcp,instagram,linkedin,stackoverflow" />
-<a/>
+<a/> <br/>
 <a><img src="https://skillicons.dev/icons?i=aws,docker,kafka,kubernetes" />
 <a/>
 [![](https://visitcount.itsvg.in/api?id=abhinandpn&icon=0&color=8)](https://visitcount.itsvg.in)
