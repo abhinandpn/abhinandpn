@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=ABHINAND+P+N;Backend+devloper+Go-Lang;Passionate+In+DevOps;Also+Learn+REACT)](https://git.io/typing-svg)
 # 💫 About Me: 
-Motivated and self-taught Backend developer in Golang. Posses a deep understanding of Go, REST API, SQL, Docker, gRPC, AWS, CICD, and more. Strong technical background in software development and passionate about building scalable and robust applications.
+Motivated and self-taught Backend developer in Golang. Possesses a deep understanding of Go, REST API, SQL, Docker, gRPC, AWS, CICD, and more. Strong technical background in software development and passionate about building scalable and robust applications. <br><br>
 <br>🌱 I’m currently learning Go-Lang
 <br>📫 How to reach me abhinandpn4067@gmail.com<br>
 📄 Know about my experiences 
-**languages and tools:**  
+**Languages and tools:**  
 
 <a><img src="https://skillicons.dev/icons?i=go,html,js,bash,css" />
 <a/> <br/>
