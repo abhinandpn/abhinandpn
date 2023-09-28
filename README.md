@@ -12,12 +12,13 @@
 <a><img src="https://skillicons.dev/icons?i=git,figma,github,githubactions,gitlab,postman" />
 <a/>
  <br/>
-<a><img src="https://skillicons.dev/icons?i=ae,idea,ai,ps,pr,visualstudio,vscode" />
+<a><img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode,ae,ai,ps,pr" />
 <a/> <br/>
 <a><img src="https://skillicons.dev/icons?i=devto,discord,gcp,instagram,linkedin,stackoverflow" />
 <a/> <br/>
 <a><img src="https://skillicons.dev/icons?i=aws,docker,kafka,kubernetes" />
 <a/>
+<br/>
 [![](https://visitcount.itsvg.in/api?id=abhinandpn&icon=0&color=8)](https://visitcount.itsvg.in)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
