@@ -2,7 +2,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Brototype.in
 <br><br>🌱 I’m currently learning Go-Lang<br><br>
-👨‍💻 All of my projects are available at [https://github.com/abhinandpn/portfolio](https://abhinandpn.github.io/profile/)
 <br><br>📫 How to reach me abhinandpn4067@gmail.com<br><br>
 📄 Know about my experiences 
 
