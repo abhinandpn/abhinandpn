@@ -2,6 +2,7 @@
 # 💫 About Me: 
 Motivated and self-taught Backend developer in Golang. Possesses a deep understanding of Go, REST API, SQL, Docker, gRPC, AWS, CICD, and more. Strong technical background in software development and passionate about building scalable and robust applications. <br>
 [![](https://visitcount.itsvg.in/api?id=abhinandpn&icon=0&color=8)](https://visitcount.itsvg.in)<br>
+[![](https://visitcount.itsvg.in/api?id=abhinandpn&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)<br>
 <br>🌱 I’m currently learning Go-Lang
 <br>📫 How to reach me abhinandpndev@gmail.com<br>
 📄 Know about my experiences 
