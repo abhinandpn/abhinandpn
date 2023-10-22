@@ -21,7 +21,6 @@ Motivated and self-taught Backend developer in Golang. Possesses a deep understa
 <a><img src="https://skillicons.dev/icons?i=aws,docker,kafka,kubernetes" />
 <a/>
 <br/><br/>
-<div align="center>
- 
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
+
