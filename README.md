@@ -2,7 +2,7 @@
 # Software Devloper
 [![](https://visitcount.itsvg.in/api?id=abhinandpn&icon=0&color=8)](https://visitcount.itsvg.in)<br>
 <br>
-<br>📫 How to reach me abhinandpndev@gmail.com<br><br>
+<br>📫 How to reach me dev.abhinandpn@gmail.com<br><br>
 <br>📫 How to reach me https://abhinandpn.netlify.app <br><br>
 <a><img src="https://skillicons.dev/icons?i=go,html,js,bash,css" />
 <a/> <br/>
